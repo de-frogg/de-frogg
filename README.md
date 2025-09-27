@@ -36,10 +36,10 @@
 
 ### 📌 Pinned Projects
 - 🚀 Go-based tools and CLI experiments (in progress)  
-- 📊 Mini-labs with PostgreSQL, Redis, Prometheus, Zabbix & Grafana  
-- ⚙️ Bash scripts for Linux automation  
-- 🌐 Experiments with **HTTP Toolkit** for debugging APIs  
-- 🛰️ Network automation & configs with **MikroTik** and **Cisco**  
+- 📊 Mini-labs with PostgreSQL, Redis, Prometheus, Zabbix & Grafana (in progress)
+- ⚙️ Bash scripts for Linux automation  (in progress)
+- 🌐 Experiments with **HTTP Toolkit** for debugging APIs (in progress)
+- 🛰️ Network automation & configs with **MikroTik** and **Cisco**  (in progress)
 
 ---
 
