@@ -1,12 +1,11 @@
 <h1 align="center">Hi there 👋, I'm Alexander</h1>
-<h3 align="center">Linux Administrator | Practicing Go | Future DevOps Engineer</h3>
+<h3 align="center">Linux System Administrator | Technical Support Engineer | Future DevOps Engineer</h3>
 
 ---
 
 ### 🚀 About Me
 - 🖥️ Linux administrator with a passion for automation and backend development.  
-- 💡 Currently practicing **Go** and improving my DevOps skill set.  
-- 🎮 Big fan of **Warhammer 40,000**, **Berserk**, and **The Witcher**.  
+- 💡 Currently practicing **Go**, **Python**, **JavaScript** improving my DevOps skill set.  
 - 🔎 I enjoy diving deep into **complex systems** and figuring out how they work.  
 
 ---
@@ -38,8 +37,6 @@
 - 🚀 Go-based tools and CLI experiments (in progress)  
 - 📊 Mini-labs with PostgreSQL, Redis, Prometheus, Zabbix & Grafana (in progress)
 - ⚙️ Bash scripts for Linux automation  (in progress)
-- 🌐 Experiments with **HTTP Toolkit** for debugging APIs (in progress)
-- 🛰️ Network automation & configs with **MikroTik** and **Cisco**  (in progress)
 
 ---
 
