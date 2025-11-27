@@ -1,11 +1,11 @@
-<h1 align="center">Hi there 👋, I'm Alexander</h1>
-<h3 align="center">Linux System Administrator | Technical Support Engineer | Future DevOps Engineer</h3>
+<h1 align="center">Hi there 👋, I'm Alexandr</h1>
+<h3 align="center">DevOps Engineer | Linux System Administrator | Technical Support Engineer</h3>
 
 ---
 
 ### 🚀 About Me
-- 🖥️ Linux administrator with a passion for automation and backend development.  
-- 💡 Currently practicing **Go**, **Python**, **JavaScript** improving my DevOps skill set.  
+- 🖥️ DevOps engineer and linux administrator with a passion for automation and backend development.  
+- 💡 Currently practicing **Go**, **Python**, **Bash** improving my DevOps skill set.  
 - 🔎 I enjoy diving deep into **complex systems** and figuring out how they work.  
 
 ---
@@ -34,8 +34,8 @@
 ---
 
 ### 📌 Pinned Projects
-- 🚀 Go-based tools and CLI experiments (in progress)  
-- 📊 Mini-labs with PostgreSQL, Redis, Prometheus, Zabbix & Grafana (in progress)
+- 🚀 Python-based tools and CLI experiments (in progress)  
+- 📊 Mini-labs with PostgreSQL, Linux, Prometheus, Grafana & Docker (in progress)
 - ⚙️ Bash scripts for Linux automation  (in progress)
 
 ---
@@ -46,12 +46,5 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
-
----
-
-### ⚡ Fun Facts
-- I like digging into **complex systems** until everything makes sense.  
-- Huge fan of **Warhammer 40,000** lore.  
-- I can talk for hours about **Berserk** and **The Witcher**.  
 
 ---
