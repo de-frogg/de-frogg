@@ -2,14 +2,6 @@
 <h3 align="center">DevOps Engineer | Linux System Administrator</h3>
 
 ---
-
-### 🚀 About Me
-- 🖥️ DevOps engineer and linux administrator with a passion for automation and backend development.  
-- 💡 Currently practicing **Python**, **Bash** improving my DevOps skill set.  
-- 🔎 I enjoy diving deep into **complex systems** and figuring out how they work.  
-
----
-
 ### 🛠️ Tech Stack
 <p align="left">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
@@ -31,10 +23,10 @@
 
 ---
 
-### 📌 Pinned Projects
-- 🚀 Python-based tools and CLI experiments (in progress)  
-- 📊 Mini-labs with PostgreSQL, Linux, Prometheus, Grafana & Docker (in progress)
-- ⚙️ Bash scripts for Linux automation  (in progress)
+### 🚀 About Me
+- 🖥️ DevOps engineer with a passion for automation and backend development.  
+- 💡 Currently practicing **Python**, **Bash**, **Rust** improving my DevOps skill set.  
+- 🔎 I enjoy diving deep into **complex systems** and figuring out how they work.  
 
 ---
 
