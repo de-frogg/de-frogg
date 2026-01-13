@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Alexandr</h1>
-<h3 align="center">DevOps Engineer | Linux System Administrator</h3>
+<h3 align="center">DevOps Engineer </h3>
 
 ---
 ### 🛠️ Tech Stack
